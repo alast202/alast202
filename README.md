@@ -1,8 +1,17 @@
+
+
 ### Hi there 👋 i'm Anne.
 
-<!--
-**alast202/alast202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/anne-last/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+  
+</p>
 
+
+
+<!--6
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
