@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+// Dependencies
+var TextAnimation = require("text-animation");
+
+// Animate bottom-top
+TextAnimation("Hello...", function (err) {
+    if (err) throw err;
+    // And then, top-bottom
+    TextAnimation({
+        text: "...World!"
+      , animation: "top-bottom"
+    });
+});
