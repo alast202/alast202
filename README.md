@@ -1,6 +1,12 @@
 
 
-### Hi there 👋 i'm Anne.
+### Hi there 👋 i'm 
+
+<img
+  src=""
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
 
 <p>
   <a href="https://www.linkedin.com/in/anne-last/" rel="nofollow noreferrer">
@@ -8,6 +14,10 @@
   </a> &nbsp; 
   
 </p>
+
+- :blue_heart: Im currently working on a functioning Front End Eccomerce webpage using React.
+- :people_holding_hands: I am looking for help with developing my Front End Dveeloper skills and to get experience working within a real-world project and team.
+
 
 
 
