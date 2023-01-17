@@ -16,7 +16,7 @@
 </p>
 
 - :blue_heart: Im currently working on a functioning Front End Eccomerce webpage using React.
-- :people_holding_hands: I am looking for help with developing my Front End Dveeloper skills and to get experience working within a real-world project and team.
+- :people_holding_hands: I am looking for help with developing my Front End Developer skills and to get experience working within a real-world project and team.
 
 
 
