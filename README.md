@@ -15,9 +15,10 @@
   
 </p>
 
-Current Project: Chat app written with ReactJS and NodeJS.
+- Gaduated Edinburgh Napier University in 2023 with a degree in Web Design and Developemtn. During my studies I was focussing on UX Design however after graduating I have devided that my true passion is within Front End Web Development. I have used languages in the pas such as ::::::: hever this page is intended to display my progress in React Developemnt.
 
-to get experience working within a real-world project and team.
+-urrent Project: Chat app written with ReactJS and NodeJS.
+
 
 
 
