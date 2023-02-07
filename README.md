@@ -15,8 +15,9 @@
   
 </p>
 
-- :blue_heart: Im currently working on a chat app using ReactJS and NodeJS.
-- :people_holding_hands: I am looking for help with developing my Front End Developer skills and to get experience working within a real-world project and team.
+Current Project: Chat app written with ReactJS and NodeJS.
+
+to get experience working within a real-world project and team.
 
 
 
