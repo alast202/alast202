@@ -21,7 +21,7 @@ The majority of my studies were focused on UX design, with the remainder on deve
 
 I have experience in technologies such as Microsoft Office, JavaScript, Node.js, Agile Methodologies, Firebase,  Adobe Creative Cloud and C++.
 
-My current projects are all using React.js. One of React's key features that got me hooked is the component libraries. They make it easy to use and reuse components, which make for a pleasant coding experience.
+My current projects are all using React.js. One of React's key features that got me hooked is the component libraries. They make it easy to use and reuse components, which make for a pleasant coding experience for myself.
 
 
 
