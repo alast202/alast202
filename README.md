@@ -25,7 +25,7 @@
 
 The majority of my studies were focused on UX design, with the remainder on development. However, after progressing more in UX and developemt, my true passions lies in the code.
 
-I have experience in technologies such as Microsoft Office, JavaScript, Node.js, Agile Methodologies, Firebase,  Adobe Creative Cloud and C++.
+I have experience in technologies such as Microsoft Office, JavaScript, Node.js, Agile Methodologies, Firebase,  Adobe Creative Cloud and C#.
 
 My current projects are all using React.js. One of React's key features that got me hooked is the component libraries. They make it easy to use and reuse components, which make for a pleasant coding experience for myself.
 
